@@ -118,9 +118,6 @@ claude mcp add nativescreen -- "/Applications/Native Screen.app/Contents/MacOS/N
 Then ask things like *"record my browser window for 20 seconds, zoom in on every click, add captions and export a
 1080p MP4"*. The agent talks to the running app over a local socket that only your user account can open.
 
-> **🎬 Demo placeholder (AI agent, ~15 s, sped up):** a terminal with an agent on the left, Native Screen on the right.
-> The agent's tool calls scroll by while zooms and captions appear on the timeline and an export finishes.
-
 ## Build from source
 
 **macOS:** Xcode 27 or later.
